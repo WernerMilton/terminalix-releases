@@ -1,6 +1,6 @@
 {
-  "expires_at": "2027-02-27T01:13:42Z",
-  "issued_at": "2026-10-30T01:13:42Z",
+  "expires_at": "2027-02-27T01:13:54Z",
+  "issued_at": "2026-10-30T01:13:54Z",
   "plugins": [
     {
       "author": "dmernes",
@@ -73,6 +73,6 @@
       "version": "1.0.0"
     }
   ],
-  "revision": 1793322822,
+  "revision": 1793322834,
   "schema_version": 2
 }
