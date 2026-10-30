@@ -1,0 +1,78 @@
+{
+  "expires_at": "2027-02-27T01:13:42Z",
+  "issued_at": "2026-10-30T01:13:42Z",
+  "plugins": [
+    {
+      "author": "dmernes",
+      "description": "Navegador de sesiones de Claude Code y Codex para reanudar, renombrar y eliminar.",
+      "min_terminalis_version": "1.3.0",
+      "name": "agent-sessions",
+      "permissions": [
+        "shell"
+      ],
+      "plugin_api_version": 1,
+      "revocation_reason": null,
+      "revoked": false,
+      "sha256": "488c96b8b8ee032c5cabeb29ed0039d64681dddcaa54565621cd8255da2a9124",
+      "size_bytes": 14446,
+      "version": "1.2.0"
+    },
+    {
+      "author": "mwerner",
+      "description": "Efectos visuales al escribir en la terminal.",
+      "min_terminalis_version": "1.1.2",
+      "name": "keystroke-fx",
+      "permissions": [],
+      "plugin_api_version": 1,
+      "revocation_reason": null,
+      "revoked": false,
+      "sha256": "7dc9c4b3d33758f150e1c22f90792fdcf6156be4506965a221c680eb134488eb",
+      "size_bytes": 3944,
+      "version": "1.0.0"
+    },
+    {
+      "author": "mwerner",
+      "description": "Lluvia Matrix sincronizada con el audio del sistema y la canción actual (macOS y Windows).",
+      "min_terminalis_version": "1.2.0",
+      "name": "music-matrix",
+      "permissions": [
+        "shell",
+        "audio_capture"
+      ],
+      "plugin_api_version": 1,
+      "revocation_reason": null,
+      "revoked": false,
+      "sha256": "f2a400cddf4c970ff58487ebcc4875071ddf4a1a17c085de33898a9178efc3f1",
+      "size_bytes": 6022,
+      "version": "1.1.0"
+    },
+    {
+      "author": "terminalis-plugins",
+      "description": "Play a sandboxed Space Invaders game inside Terminalis.",
+      "min_terminalis_version": "1.1.2",
+      "name": "space-invaders",
+      "permissions": [],
+      "plugin_api_version": 1,
+      "revocation_reason": null,
+      "revoked": false,
+      "sha256": "f8acd7ee71fb1b5c2b162770cfc5f5016a826a4862a5072532b64e351602e6ea",
+      "size_bytes": 2588,
+      "version": "1.0"
+    },
+    {
+      "author": "mwerner",
+      "description": "Una mascota animada que reacciona a tu actividad en Terminalis.",
+      "min_terminalis_version": "1.3.0",
+      "name": "terminal-pet",
+      "permissions": [],
+      "plugin_api_version": 1,
+      "revocation_reason": null,
+      "revoked": false,
+      "sha256": "9adf3852e66129c8a0624b5149db8b41de79afd1e7e6502eed7c1b6afd855bfe",
+      "size_bytes": 2307510,
+      "version": "1.0.0"
+    }
+  ],
+  "revision": 1793322822,
+  "schema_version": 2
+}
