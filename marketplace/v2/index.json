@@ -1,6 +1,6 @@
 {
-  "expires_at": "2027-02-27T01:13:54Z",
-  "issued_at": "2026-10-30T01:13:54Z",
+  "expires_at": "2027-02-27T01:23:18Z",
+  "issued_at": "2026-10-30T01:23:18Z",
   "plugins": [
     {
       "author": "dmernes",
@@ -42,9 +42,9 @@
       "plugin_api_version": 1,
       "revocation_reason": null,
       "revoked": false,
-      "sha256": "f2a400cddf4c970ff58487ebcc4875071ddf4a1a17c085de33898a9178efc3f1",
-      "size_bytes": 6022,
-      "version": "1.1.0"
+      "sha256": "91bb28dcaaa427192a064b6c2c1d78f6f1c6cd28b3e40571e0c904437f3fa7c8",
+      "size_bytes": 6021,
+      "version": "1.1.1"
     },
     {
       "author": "terminalis-plugins",
@@ -73,6 +73,6 @@
       "version": "1.0.0"
     }
   ],
-  "revision": 1793322834,
+  "revision": 1793323398,
   "schema_version": 2
 }

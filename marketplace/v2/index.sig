@@ -1,4 +1,4 @@
 {
   "key_id": "terminalix-2026-10",
-  "signature": "kiH/bjlN2J+u3K5VXUmPK7xbXRuKpQNqj2QaSBT5OX88h+gnlzfJwMidB/KneO2LAn9XybKdgkksHf4abbUWDw=="
+  "signature": "FOs9q7McSqbcPB7J1uSEteemIZJU1S5WTmOzAu5Gr65rIbloDfH1tJprkP5Ah+wgOl7/1ik+OH2MFYTQVLiBBA=="
 }
